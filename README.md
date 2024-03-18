@@ -1,4 +1,4 @@
-### Hello, this is my personal repository 👋
+# Hello, this is my personal repository 👋
 
 <!--
 **meks-beg/meks-beg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
